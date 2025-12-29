@@ -1,0 +1,8 @@
+{
+  "name": "Ali Hamza | Futuristic Dev Portfolio",
+  "description": "An advanced, high-performance web developer portfolio featuring 3D effects, interactive UI, and a Gemini-powered AI persona for Ali Hamza.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
